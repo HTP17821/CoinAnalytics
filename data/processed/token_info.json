@@ -1,0 +1,74 @@
+[
+    {
+        "Token": "ALICEUSDT",
+        "Description": "MyNeighborAlice (ALICE) is a cryptocurrency launched in 2021and operates on the Ethereum platform. MyNeighborAlice has a current supply of 100,000,000 with 67,913,333 in circulation. The last known price of MyNeighborAlice is 0.68940106 USD and is down -5.78 over the last 24 hours. It is currently trading on 256 active market(s) with $9,746,749.33 traded over the last 24 hours.",
+        "Website": "https://www.myneighboralice.com/",
+        "Technical Doc": "https://whitepaper.myneighboralice.com/",
+        "Twitter": "https://twitter.com/MyNeighborAlice",
+        "Reddit": "https://reddit.com/r/MyNeighborAlice",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png"
+    },
+    {
+        "Token": "AXSUSDT",
+        "Description": "Axie Infinity (AXS) is a cryptocurrency and operates on the Ethereum platform. Axie Infinity has a current supply of 270,000,000 with 158,915,032.3283815 in circulation. The last known price of Axie Infinity is 3.90925754 USD and is down -6.07 over the last 24 hours. It is currently trading on 507 active market(s) with $39,893,127.81 traded over the last 24 hours.",
+        "Website": "https://axieinfinity.com/",
+        "Technical Doc": "https://whitepaper.axieinfinity.com/",
+        "Twitter": "https://twitter.com/AxieInfinity",
+        "Reddit": "https://reddit.com/r/AxieInfinity",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png"
+    },
+    {
+        "Token": "ENJUSDT",
+        "Description": "Enjin Coin (ENJ) is a cryptocurrency . Enjin Coin has a current supply of 1,874,310,011.311605 with 1,808,005,385.5680227 in circulation. The last known price of Enjin Coin is 0.1152577 USD and is down -5.03 over the last 24 hours. It is currently trading on 444 active market(s) with $16,769,830.81 traded over the last 24 hours.",
+        "Website": "https://enjin.io/",
+        "Technical Doc": "https://docs.enjin.io/",
+        "Twitter": "https://twitter.com/enjin",
+        "Reddit": "https://reddit.com/r/EnjinCoin",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png"
+    },
+    {
+        "Token": "GALAUSDT",
+        "Description": "Gala (GALA) is a cryptocurrency and operates on the Ethereum platform. Gala has a current supply of 39,012,524,942.09131035 with 36,988,364,806.07667738 in circulation. The last known price of Gala is 0.02096622 USD and is down -7.41 over the last 24 hours. It is currently trading on 498 active market(s) with $72,202,397.78 traded over the last 24 hours.",
+        "Website": "https://gala.com/",
+        "Technical Doc": "blank",
+        "Twitter": "https://twitter.com/GoGalaGames",
+        "Reddit": "https://reddit.com/r/GoGalaGames/",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png"
+    },
+    {
+        "Token": "MANAUSDT",
+        "Description": "Decentraland (MANA) is a cryptocurrency and operates on the Ethereum platform. Decentraland has a current supply of 2,193,179,327.32014624 with 1,942,255,184.11304921 in circulation. The last known price of Decentraland is 0.30097893 USD and is down -4.27 over the last 24 hours. It is currently trading on 554 active market(s) with $48,939,228.38 traded over the last 24 hours.",
+        "Website": "https://decentraland.org/",
+        "Technical Doc": "https://decentraland.org/whitepaper.pdf",
+        "Twitter": "https://twitter.com/decentraland",
+        "Reddit": "https://reddit.com/r/decentraland",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+    },
+    {
+        "Token": "SANDUSDT",
+        "Description": "The Sandbox (SAND) is a cryptocurrency and operates on the Ethereum platform. The Sandbox has a current supply of 3,000,000,000 with 2,464,357,126.22332254 in circulation. The last known price of The Sandbox is 0.33193355 USD and is down -5.82 over the last 24 hours. It is currently trading on 633 active market(s) with $81,056,222.00 traded over the last 24 hours.",
+        "Website": "https://www.sandbox.game/en/",
+        "Technical Doc": "http://www.sandbox.game/The_Sandbox_Whitepaper_2020.pdf",
+        "Twitter": "https://twitter.com/thesandboxgame",
+        "Reddit": "blank",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+    },
+    {
+        "Token": "SUSHIUSDT",
+        "Description": "SushiSwap (SUSHI) is a cryptocurrency launched in 2020and operates on the Ethereum platform. SushiSwap has a current supply of 280,686,715.31824285 with 264,535,301.60997589 in circulation. The last known price of SushiSwap is 0.84367535 USD and is down -4.25 over the last 24 hours. It is currently trading on 905 active market(s) with $31,320,671.26 traded over the last 24 hours.",
+        "Website": "https://sushi.com/",
+        "Technical Doc": "https://docs.sushi.com/pdf/whitepaper.pdf",
+        "Twitter": "https://twitter.com/sushiswap",
+        "Reddit": "https://reddit.com/r/SushiSwap",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+    },
+    {
+        "Token": "YGGUSDT",
+        "Description": "Yield Guild Games (YGG) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Yield Guild Games has a current supply of 999,985,959.90658238 with 432,582,714.62007081 in circulation. The last known price of Yield Guild Games is 0.23582048 USD and is down -8.15 over the last 24 hours. It is currently trading on 246 active market(s) with $20,084,463.95 traded over the last 24 hours.",
+        "Website": "https://yieldguild.io/",
+        "Technical Doc": "https://storage.googleapis.com/external_communication/YGG-GuildProtocol-ConceptPaper-2024Sept.pdf",
+        "Twitter": "https://twitter.com/YieldGuild",
+        "Reddit": "blank",
+        "Logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png"
+    }
+]

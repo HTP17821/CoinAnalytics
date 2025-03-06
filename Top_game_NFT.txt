@@ -1,0 +1,108 @@
+
+
+
+
+
++-----------------------------------------------------------+
+|               Top Game NFT Tokens                        |
++-----------------------------------------------------------+
+|   Token Symbol   |    Game Name      |     Launch Date   |
++------------------+-------------------+-------------------+
+|    **SAND**      | The Sandbox       | 15/08/2019        |
+|    **AXS**       | Axie Infinity     | 17/10/2020        |
+|    **MANA**      | Decentraland      | 17/10/2017        |
+|    **GALA**      | Gala Games        | 15/09/2021        |
+|    **ENJ**       | Enjin Coin        | 17/10/2017        |
+|    **SUSHI**     | SushiSwap         | 01/09/2020        |
+|    **YGG**       | Yield Guild Games | 15/12/2021        |
+|    **ALICE**     | My Neighbor Alice | 15/03/2021        |
++-----------------------------------------------------------+
+
+
+
+
+
+
+
+---------------------------------------------------------------
+|                   Game Descriptions                        |
+---------------------------------------------------------------
+1. **The Sandbox (SAND)**:
+   - A decentralized virtual world where players can build, own, and monetize their experiences. 
+   - Powered by the Ethereum blockchain, players can create assets and interact in a voxel-based universe.
+
+2. **Axie Infinity (AXS)**:
+   - A blockchain-based game where players breed, raise, and battle fantasy creatures called Axies.
+   - AXS token is the governance token of the platform.
+
+3. **Decentraland (MANA)**:
+   - A virtual reality platform where users can buy, sell, and build on virtual land.
+   - MANA is used as the platform's main currency for buying land and items.
+
+4. **Gala Games (GALA)**:
+   - A blockchain gaming ecosystem that provides players and creators with the tools and assets to create and own games.
+   - GALA is used for in-game transactions and governance.
+
+5. **Enjin Coin (ENJ)**:
+   - A blockchain-based platform that focuses on providing virtual goods and assets for gaming.
+   - ENJ is used to back the value of in-game items and assets.
+
+6. **SushiSwap (SUSHI)**:
+   - A decentralized exchange (DEX) built on Ethereum, allowing users to swap tokens and provide liquidity to earn rewards.
+   - SUSHI token is used for governance and staking on the platform.
+
+7. **Yield Guild Games (YGG)**:
+   - A decentralized autonomous organization (DAO) that focuses on building a virtual economy by owning in-game assets.
+   - YGG token is used for governance and participation in the YGG ecosystem.
+
+8. **My Neighbor Alice (ALICE)**:
+   - A multiplayer builder game where players can purchase and manage virtual land, similar to the concept of Decentraland.
+   - ALICE is used for in-game transactions, governance, and as a staking token.
+
+
+
+
+
+---------------------------------------------------------------
+|                  Social Media Links & Documentation       |
+---------------------------------------------------------------
+1. **The Sandbox**:
+   - Website: [https://www.sandbox.game/](https://www.sandbox.game/)
+   - Twitter: [@TheSandboxGame](https://twitter.com/TheSandboxGame)
+   - Whitepaper: [Link](https://www.sandbox.game/whitepaper)
+
+2. **Axie Infinity**:
+   - Website: [https://axieinfinity.com/](https://axieinfinity.com/)
+   - Twitter: [@AxieInfinity](https://twitter.com/AxieInfinity)
+   - Whitepaper: [Link](https://whitepaper.axieinfinity.com/)
+
+3. **Decentraland**:
+   - Website: [https://decentraland.org/](https://decentraland.org/)
+   - Twitter: [@decentraland](https://twitter.com/decentraland)
+   - Whitepaper: [Link](https://decentraland.org/whitepaper.pdf)
+
+4. **Gala Games**:
+   - Website: [https://gala.games/](https://gala.games/)
+   - Twitter: [@GoGalaGames](https://twitter.com/GoGalaGames)
+   - Whitepaper: [Link](https://gala.games/whitepaper)
+
+5. **Enjin Coin**:
+   - Website: [https://enjin.io/](https://enjin.io/)
+   - Twitter: [@enjin](https://twitter.com/enjin)
+   - Whitepaper: [Link](https://enjin.io/whitepaper)
+
+6. **SushiSwap**:
+   - Website: [https://sushi.com/](https://sushi.com/)
+   - Twitter: [@SushiSwap](https://twitter.com/SushiSwap)
+   - Whitepaper: [Link](https://sushi.com/whitepaper)
+
+7. **Yield Guild Games**:
+   - Website: [https://www.ygg.io/](https://www.ygg.io/)
+   - Twitter: [@YieldGuild](https://twitter.com/YieldGuild)
+   - Whitepaper: [Link](https://www.ygg.io/whitepaper)
+
+8. **My Neighbor Alice**:
+   - Website: [https://www.myneighboralice.com/](https://www.myneighboralice.com/)
+   - Twitter: [@MyNeighborAlice](https://twitter.com/MyNeighborAlice)
+   - Whitepaper: [Link](https://www.myneighboralice.com/whitepaper)
+
